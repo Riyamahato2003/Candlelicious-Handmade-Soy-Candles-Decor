@@ -1,0 +1,6 @@
+{
+  "name": "Candlelicious",
+  "description": "Candlelicious (@candlelicious.lana) — Luxury handmade sculptural soy candles, ceramic vessels, floral bouquets, and contemporary home decor in Amman, Jordan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
